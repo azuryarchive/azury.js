@@ -1,7 +1,7 @@
 {
   "name": "azury.js",
   "version": "1.0.1",
-  "description": "Azury's JavaScript Library",
+  "description": "Simple JavaScript Library for interacting with Azury's API.",
   "main": "azury.js",
   "repository": {
     "type": "git",
