@@ -1,6 +1,6 @@
 {
   "name": "azury.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azury's JavaScript Library",
   "main": "azury.js",
   "repository": {
@@ -8,7 +8,10 @@
     "url": "git+https://github.com/azuryofficial/azury.js.git"
   },
   "keywords": [
-    "azury", "filesharing", "api", "free"
+    "azury",
+    "filesharing",
+    "api",
+    "free"
   ],
   "author": "azury",
   "license": "Apache-2.0",
