@@ -1,4 +1,3 @@
-# azury.js
-Simple JavaScript Library for Azury's API.
+# Azury.js
 
-## Setup
+Azury.js is a powerful, easy-to-use JavaScript Library to interact with Azury's Public API.
