@@ -6,4 +6,4 @@ Azury.js is a powerful, easy-to-use JavaScript Library to interact with Azury's 
 
 ### Documentation
 
-Check out our Wiki for a easy-to-understand documentation.
+Check out our [Wiki](https://github.com/azuryofficial/azury.js/wiki) for a easy-to-understand documentation.
