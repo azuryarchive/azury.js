@@ -1,7 +1,7 @@
 // ---------------- DEPENDENCIES ---------------- //
 
 const fetch = require('node-fetch')
-const config = require('azury.json')
+const config = require('./azury.json')
 
 // ---------------- CONFIGURATION ---------------- //
 
