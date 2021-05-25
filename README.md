@@ -10,7 +10,7 @@ Install Azury.js by running the following command in your console.
 ```
  npm i azury.js
 ```
-Create a configuration file named `azury.json` in the root directory of your project and paste the following code.
+Create a configuration file named `azury.json` in the root directory of your project and copy-paste the following code.
 ```JSON
 {
   "token": "PASTE YOUR TOKEN HERE",
